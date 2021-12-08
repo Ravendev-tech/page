@@ -59,6 +59,20 @@
 </div>
 
 
+<!--icon font css-->
+<link rel="stylesheet" href="{{url('/')}}/vendors/themify-icon/themify-icons.css">
+<link rel="stylesheet" href="{{url('/')}}/vendors/simple-line-icon/simple-line-icons.css">
+<link rel="stylesheet" href="{{url('/')}}/vendors/font-awesome/css/all.css">
+<link rel="stylesheet" href="{{url('/')}}/vendors/flaticon/flaticon.css">
+<link rel="stylesheet" href="{{url('/')}}/vendors/animation/animate.css">
+<link rel="stylesheet" href="{{url('/')}}/vendors/owl-carousel/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="{{url('/')}}/vendors/animation/animate.css">
+<link rel="stylesheet" href="{{url('/')}}/vendors/magnify-pop/magnific-popup.css">
+<link rel="stylesheet" href="{{url('/')}}/vendors/elagent/style.css">
+<link rel="stylesheet" href="{{url('/')}}/vendors/scroll/jquery.mCustomScrollbar.min.css">
+<link rel="stylesheet" href="{{url('/')}}/css/style.css">
+<link rel="stylesheet" href="{{url('/')}}/css/responsive.css">
+
 <script src="{{url('/')}}/js/jquery-3.6.0.min.js"></script>
 <script src="{{url('/')}}/js/propper.js"></script>
 <script src="{{url('/')}}/js/bootstrap.min.js"></script>
