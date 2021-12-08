@@ -13,3 +13,24 @@
 
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="{{url('/')}}/css/bootstrap.min.css">
+<style media="screen">
+body.main-body {
+    background: #000;
+}
+
+.bgblack {
+    background: transparent;
+}
+
+.bghome {
+    height: 100vh;
+    min-height: 650px;
+    background-image: url(../img/homebanner.webp);
+    background-size: cover;
+    background-position-y: -60px;
+}
+
+.security_banner_content {
+    padding-top: 40%;
+}
+</style>

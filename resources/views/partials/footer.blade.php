@@ -70,7 +70,6 @@
 <link rel="stylesheet" href="{{url('/')}}/vendors/magnify-pop/magnific-popup.css">
 <link rel="stylesheet" href="{{url('/')}}/vendors/elagent/style.css">
 <link rel="stylesheet" href="{{url('/')}}/vendors/scroll/jquery.mCustomScrollbar.min.css">
-<link rel="stylesheet" href="{{url('/')}}/css/style.css">
 <link rel="stylesheet" href="{{url('/')}}/css/responsive.css">
 
 <script src="{{url('/')}}/js/jquery-3.6.0.min.js"></script>
