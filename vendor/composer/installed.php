@@ -475,6 +475,15 @@
             'reference' => 'aa70e813a6ad3d1558fc927863d47309b4c23e69',
             'dev_requirement' => false,
         ),
+        'mobiledetect/mobiledetectlib' => array(
+            'pretty_version' => '2.8.37',
+            'version' => '2.8.37.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../mobiledetect/mobiledetectlib',
+            'aliases' => array(),
+            'reference' => '9841e3c46f5bd0739b53aed8ac677fa712943df7',
+            'dev_requirement' => false,
+        ),
         'mockery/mockery' => array(
             'pretty_version' => '1.4.4',
             'version' => '1.4.4.0',
@@ -829,6 +838,15 @@
             'replaced' => array(
                 0 => '4.2.3',
             ),
+        ),
+        'riverskies/laravel-mobile-detect' => array(
+            'pretty_version' => '1.3',
+            'version' => '1.3.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../riverskies/laravel-mobile-detect',
+            'aliases' => array(),
+            'reference' => '0ddb27d31a4a1148875424426b9feda6598f2f14',
+            'dev_requirement' => false,
         ),
         'sebastian/cli-parser' => array(
             'pretty_version' => '1.0.1',

@@ -41,6 +41,7 @@ return array(
     'Spatie\\ResponseCache\\' => array($vendorDir . '/spatie/laravel-responsecache/src'),
     'Spatie\\LaravelPackageTools\\Database\\Factories\\' => array($vendorDir . '/spatie/laravel-package-tools/database/factories'),
     'Spatie\\LaravelPackageTools\\' => array($vendorDir . '/spatie/laravel-package-tools/src'),
+    'Riverskies\\Laravel\\MobileDetect\\' => array($vendorDir . '/riverskies/laravel-mobile-detect/src'),
     'Ramsey\\Uuid\\' => array($vendorDir . '/ramsey/uuid/src'),
     'Ramsey\\Collection\\' => array($vendorDir . '/ramsey/collection/src'),
     'Psy\\' => array($vendorDir . '/psy/psysh/src'),
