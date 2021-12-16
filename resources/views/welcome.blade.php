@@ -168,27 +168,40 @@
 </section>
 @endsection
 @elsedesktop
-<section class="bghome">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 d-flex align-items-center">
-                <div class="security_banner_content">
-                    <h2 class="wow fadeInUp" data-wow-delay="0.3s">Your Unified Solution For PC Security and
-                        Performance</h2>
-                    <p class="f_400 w_color l_height28 wow fadeInUp" data-wow-delay="0.4s">Download Free
-                        Antivirus and System Optimization Utility</p>
-                    <div class="action_btn d-flex align-items-center mt_40 wow fadeInUp" data-wow-delay="0.6s">
-                        <a href="#" class="btn_hover app_btn">Free Download</a>
-                        <a href="#" class="w_btn"><img src="img/home-security/windows_icon.png" alt="">Windows
-                            10</a>
-                        <a href="#" class="w_btn"><img src="img/home-security/apple_icon.png" alt="">Mac OS
-                            8.2</a>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=0'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="Description" content="Waloro">
+    <meta content="Flamingo Agency" name="author">
+    <meta name="keywords" content=""/>
+    <title>Home</title>
+  </head>
+  <body>
+    <section class="bghome">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 d-flex align-items-center">
+                    <div class="security_banner_content">
+                        <h2 class="wow fadeInUp" data-wow-delay="0.3s">Your Unified Solution For PC Security and
+                            Performance</h2>
+                        <p class="f_400 w_color l_height28 wow fadeInUp" data-wow-delay="0.4s">Download Free
+                            Antivirus and System Optimization Utility</p>
+                        <div class="action_btn d-flex align-items-center mt_40 wow fadeInUp" data-wow-delay="0.6s">
+                            <a href="#" class="btn_hover app_btn">Free Download</a>
+                            <a href="#" class="w_btn"><img src="img/home-security/windows_icon.png" alt="">Windows
+                                10</a>
+                            <a href="#" class="w_btn"><img src="img/home-security/apple_icon.png" alt="">Mac OS
+                                8.2</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.4s">
+                <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.4s">
+                </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
+  </body>
+</html>
 @enddesktop
